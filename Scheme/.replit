@@ -1,0 +1,6 @@
+run = "racket main.rkt"
+entrypoint = "main.rkt"
+hidden = [".config"]
+
+[nix]
+channel = "stable-21_11"
